@@ -1,42 +1,64 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital@1&family=Roboto+Slab:wght@300&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital@1&family=Varela+Round&display=swap');
 body {
         color: rgb(86, 44, 5);
-        font-family: 'Roboto Slab', 'Sans serif';
+        font-family: 'Varela Round', 'Sans serif';
     }
-
-h1 {
-    color: rgb(238, 125, 13);
-    font-size: 50px;
+nav {
     text-align: center;
-    margin: 0;
-    padding: 0;
+    
 }
-h1 ~ p {
-    color: rgb(238, 125, 13);
-    text-align: center;
-    margin: 0;
-    padding: 0;
+.color {
+    color: rgb(86, 44, 5);
+    padding: 0 3px 0 3px;
+    text-decoration: none;
+}
 
+.color:hover {
+    color: rgb(238, 125, 13);
+}
+p {
+    font-family: 'Noto Serif', 'Sans serif';
+}
+h1 {
+    font-size: 70px;
+    text-align: left;
+    margin: 0 auto;
+    position: relative;
+    line-height: 40px;
+    padding: 1px 1px 1px 1px;
 }
 
 .storage {
     display: flex;
+    height: 500px;
+    flex-direction: row;
 }
 
 .unit {
-    height: 10px;
+    font-size: 30px;
+    font-weight: 100;
     width: 100%;
-    flex-direction: row;
-    align-content: space-around;
     text-align: center;
+    margin: 0 auto;
+    padding: 0 auto;
+
 }
 
-#saga-header {
-        height: 500px;
-        width: 100%;
-        background: url('../images/sagafront.jpg') no-repeat;
-        background-size: contain;
-        background-position: center;
-        filter: opacity(40%);
+.introduction {
+    background-color: rgb(238, 125, 13);
+    font-weight: bold;
+}
+
+.contain {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+
+}
+.box {
+    height: 200px;
+    width: 100%;
+    border-radius: 20%;
+    
 }
