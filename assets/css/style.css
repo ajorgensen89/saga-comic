@@ -1,6 +1,42 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital@1&family=Roboto+Slab:wght@300&display=swap');
 
 body {
-        color: red;
+        color: rgb(86, 44, 5);
         font-family: 'Roboto Slab', 'Sans serif';
     }
+
+h1 {
+    color: rgb(238, 125, 13);
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+h1 ~ p {
+    color: rgb(238, 125, 13);
+    text-align: center;
+    margin: 0;
+    padding: 0;
+
+}
+
+.storage {
+    display: flex;
+}
+
+.unit {
+    height: 10px;
+    width: 100%;
+    flex-direction: row;
+    align-content: space-around;
+    text-align: center;
+}
+
+#saga-header {
+        height: 500px;
+        width: 100%;
+        background: url('../images/sagafront.jpg') no-repeat;
+        background-size: contain;
+        background-position: center;
+        filter: opacity(40%);
+}
