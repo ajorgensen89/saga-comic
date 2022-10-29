@@ -64,17 +64,22 @@ nav {
     padding: 0 auto;
 
 }
-/* Induction information displayed via flex  */
+/* Induction information displayed via inline-block display  */
 .introduction {
-    background-color: rgb(238, 125, 13);
+    background-color: rgba(244, 161, 78, 0.9);
     font-weight: bold;
     border-radius: 10px;
-    display: flex;
-    flex-direction: row;
+    display: inline-block;
+   
 }
 
 .introduction-unit {
-    height: fit-content;
+    font-size: 20px;
+    align-content: center;
+    border: 1px solid rgba(240, 209, 178, 0.9);
+    background-color: rgba(240, 209, 178, 0.9);
+    border-radius: 10px;
+    margin: 10px; 
     
 }
 
@@ -105,15 +110,17 @@ th {
 
 td, th, tr {
     border: 1px solid rgb(2, 9, 4);
-    border-left: 1px solid blue;
-    border-right: 1px solid blue;
+    border-left: 1px solid rgb(2, 9, 4);
+    border-right: 1px solid rgb(2, 9, 4);
     font-weight: bold;
     text-align: center;
 }
 
 #table {
-    background-color: rgb(217, 194, 166);
+    background-color: rgba(244, 161, 78, 0.9);
+    border-radius: 10px;
 }
+
 
 /* fieldset element with unordered lists in About Authors section */
 
