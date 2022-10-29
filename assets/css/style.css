@@ -78,6 +78,9 @@ h4 {
     border-radius: 20%;
     
 }
+img {
+    background-color: rgb(96, 73, 128);
+}
 
 table {
     align-content: center;
@@ -104,7 +107,6 @@ legend {
     font-weight: bold;
 }
 
-
 #form-set {
     background-image: url('../images/red2.jpg');
     height: 770px;
@@ -112,6 +114,13 @@ legend {
     position: relative;
     font-size: 50px;
     color: rgb(2, 9, 4);
+    margin: 0 0 0 100px;
+    background-color: rgb(132, 24, 24);
+}
+
+#subscribe-form {
+    position: absolute;
+    
 }
 
 li {
