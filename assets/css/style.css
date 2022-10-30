@@ -3,7 +3,7 @@
 /* basic starting styles for page, titles and paragraphs */
 
 body {
-        color: rgb(86, 44, 5);
+        color: rgb(29, 7, 51);
         font-family: 'Varela Round', 'Sans serif';
 }
 
@@ -22,7 +22,7 @@ h1 {
 
 h3 {
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
     text-decoration-line: underline;
 }
 
@@ -39,7 +39,7 @@ nav {
 }
 
 .color {
-    color: rgb(86, 44, 5);
+    color: rgb(29, 7, 51);
     padding: 0 3px 0 3px;
     text-decoration: none;
 }
@@ -65,22 +65,22 @@ nav {
 
 }
 /* Induction information displayed via inline-block display  */
+
 .introduction {
-    background-color: rgba(244, 161, 78, 0.9);
-    font-weight: bold;
-    border-radius: 10px;
-    display: inline-block;
-   
+    display: flex;
+    flex-direction: row;
+    height: 200px;
+    padding: 10px;
+    margin: 10px;
 }
 
 .introduction-unit {
-    font-size: 20px;
-    align-content: center;
-    border: 1px solid rgba(240, 209, 178, 0.9);
+    text-align: center;
     background-color: rgba(240, 209, 178, 0.9);
-    border-radius: 10px;
-    margin: 10px; 
-    
+    padding: 6px 10px 6px 10px;
+    margin: 0 20px;
+    width: 1fr;
+    border-radius: 40px;
 }
 
 
@@ -94,8 +94,9 @@ nav {
 
 .box {
     height: 200px;
-    width: 100%;
+    width: 200px;
     border-radius: 20%;
+    border: 1px solid rgb(29, 7, 51);
 }
 
 img {
@@ -116,17 +117,27 @@ td, th, tr {
     text-align: center;
 }
 
-#table {
+#table-section {
     background-color: rgba(244, 161, 78, 0.9);
+    border-radius: 10px;
+    height: fit-content;
+    width: 100%;
+}
+
+#table {
+    margin-left: 270px;
     border-radius: 10px;
 }
 
-
 /* fieldset element with unordered lists in About Authors section */
+
+fieldset {
+    border-radius: 20px;
+}
 
 .fieldset {
     text-align: center;
-    letter-spacing: 1px;
+    letter-spacing: 1px;        
     line-height: normal;
 }
 

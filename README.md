@@ -22,3 +22,9 @@ It hadnt set the height to the size i wanted so i put that it myself.
     overflow: hidden;
 }
 Tweak letter spacing in fieldset. Add h5 to ul lists.
+
+Acknowledgements.
+Code Institute course for acceptance into this world.
+Anna Greaves for Love Running module run through.
+Slack Community
+Mentor Precious Liege.
