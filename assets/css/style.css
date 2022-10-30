@@ -126,6 +126,8 @@ td, th, tr {
 
 .fieldset {
     text-align: center;
+    letter-spacing: 1px;
+    line-height: normal;
 }
 
 legend {
@@ -166,6 +168,7 @@ li {
     background-color: azure;
     padding: 10px;
     text-align: center;
+    border-radius: 10px;
 }
 
 .form-input {

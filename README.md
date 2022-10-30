@@ -21,3 +21,4 @@ It hadnt set the height to the size i wanted so i put that it myself.
     height: 700px;
     overflow: hidden;
 }
+Tweak letter spacing in fieldset. Add h5 to ul lists.
