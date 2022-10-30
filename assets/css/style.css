@@ -119,9 +119,9 @@ th {
 }
 
 td, th, tr {
-    border: 1px solid rgb(2, 9, 4);
-    border-left: 1px solid rgb(2, 9, 4);
-    border-right: 1px solid rgb(2, 9, 4);
+    border: 1px solid rgb(29, 7, 51);
+    border-left: 1px solid rgb(29, 7, 51);
+    border-right: 1px solid rgb(29, 7, 51);
     font-weight: bold;
     text-align: center;
 }
@@ -227,3 +227,9 @@ form > h3 {
     margin: 5px;
 }
 
+footer {
+    height: 40px;
+    background-color: rgb(29, 7, 51);
+    color: red;
+    border-radius: 40px;
+}

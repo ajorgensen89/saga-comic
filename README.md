@@ -32,3 +32,5 @@ Attempted 2 tone background to Intro paragraphs.
 Used padding and letter spacing and line height to space out some of the content on the page.
 
 Table positioning is a nightmare.
+
+IMAGE COMICS - release dates.
