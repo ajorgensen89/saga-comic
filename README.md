@@ -28,3 +28,7 @@ Code Institute course for acceptance into this world.
 Anna Greaves for Love Running module run through.
 Slack Community
 Mentor Precious Liege.
+Attempted 2 tone background to Intro paragraphs.
+Used padding and letter spacing and line height to space out some of the content on the page.
+
+Table positioning is a nightmare.
