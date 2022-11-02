@@ -20,10 +20,6 @@ h1 {
     text-align: center;
 }
 
-h2 {
-    font-family: 'Noto Serif', 'Sans serif'; 
-    font-size: 30px;
-}
 
 h3 {
     font-size: 20px;
@@ -82,7 +78,7 @@ hr {
 }
 
 #p-margin {
-    margin: 0;
+    margin-top: 0;
 }
 
 .introduction-unit {
@@ -306,7 +302,7 @@ footer {
     #table {
         padding: 0 25px 50px 75px;
     }
-    #media-h2 {
+    #media {
         display: flex;
         flex-direction: column;
         height: 300px;
@@ -314,22 +310,16 @@ footer {
         margin: 0 0 0 150px;
     }
 
-    h2 {
-        font-size: 20px;
-    }
-
     #media-section {
         margin-top: 250px;
     }
-    /* .contain {
-        display: flex;
-        flex-direction: row;
-        justify-content: space-around;
-    } */
-    
+   
     .box {
         height: 150px;
         width: 150px;
+    }
+    .shrink-titles {
+        font-size: 20px;
     }
 }
 
@@ -337,7 +327,7 @@ footer {
     #table {
         padding: 0 25px 50px 75px;
     }
-    #media-h2 {
+    #media {
         margin: 0 0 0 125px;
     }
 }
@@ -352,7 +342,7 @@ footer {
     #table {
         padding: 0 10px 25px 50px;
     }
-    #media-h2 {
+    #media {
         margin: 0 0 0 100px;
     }
 }
@@ -361,7 +351,7 @@ footer {
     #table {
         padding: 0 0 25px 25px;
     }
-    #media-h2 {
+    #media {
         margin: 0 0 0 75px;
     }
 }
@@ -379,12 +369,7 @@ footer {
         font-size: 10px;
         padding-top: 10px;
     }
-    /* .contain {
-        display: flex;
-        flex-direction: row;
-        justify-content: space-around;
-    } */
-    
+   
     .box {
         height: 150px;
         width: 130px;
@@ -400,13 +385,11 @@ footer {
     h1 {
         font-size: 30px;
     }
-    h2 {
-        font-size: 20px;
-    }
+    
 }
 
 @media screen and (max-width: 424px) {
-    #media-h2 {
+    #media {
         margin: 0 0 0 50px;
     }
     .footer {
@@ -433,7 +416,7 @@ footer {
 }
 
 @media screen and (max-width: 390px) {
-    #media-h2 {
+    #media {
         margin: 0 0 0 25px;
     }
    .form-box {
@@ -476,12 +459,10 @@ footer {
         padding: 0 0 3px 0;
         margin: 0 5px 0 2px;
     }
-    #media-h2 {
+    #media {
         margin: 0;
     }
-    .form-box {
-        margin-left: 25px;
-    }
+    
 }
 
 @media screen and (max-width: 345px) {
@@ -490,4 +471,8 @@ footer {
         width: 200px;
         margin-left: 50px;
     }
+    th {
+        text-transform: lowercase;
+    }
 }
+

@@ -34,3 +34,6 @@ Used padding and letter spacing and line height to space out some of the content
 Table positioning is a nightmare.
 
 IMAGE COMICS - release dates.
+
+Remove span and h2-h5 titles are did not work together. - chnage to divs. all good.
+read just introduction to adjust padding for mobile width 320px.

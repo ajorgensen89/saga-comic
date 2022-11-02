@@ -9,7 +9,8 @@
     <meta name="keywords"
         content="Saga, comic, comic book, graphic novel, new release 2022, 30th anniversary, sci-fi, issues, volume, compendium, image comics INC, Fonograpfiks">
     <meta name="author" content="Brain K.Vaughan, Fiona Staples">
-    <link rel="stylesheet" href="assets/css/style.css" href="assets/images/">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="images" href="assets/images/">
     <title>Saga Comic and Graphic Novels</title>
 </head>
 
@@ -17,37 +18,38 @@
     <header>
         <h1><em>New Saga in 2022</em></h1>
 
-        <div class="storage" id="media-h2">
-            <span class="unit">
-                <p>A journey across worlds...</p>
-            </span>
+        <div class="storage" id="media">
+            <div class="unit">
+                <p class="shrink-titles">A journey across worlds...</p>
+            </div>
             <img class="unit" id="media-img" src="assets/images/sagafront.jpg"
                 alt="Characters in Saga. Mum, Alana, and Dad, Marko, holding their new born baby girl">
-            <span class="unit">
-                <p>... the release of issue #55-60 in 2022</p>
-            </span>
+            <div class="unit">
+                <p class="shrink-titles">... the release of issue #55-60 in 2022</p>
+            </div>
         </div>
     </header>
-    <section id="media-section">
-        <div>
+    <section>
+        <div id="media-section">
             <nav>
                 <a class="color" href="#Introduction">Introduction</a>
                 <a class="color" href="#New-Issues-55-60-in-2022">New Issues #55-60 in 2022</a>
-                <a  class="color" href="#Volumes-1-9">Volumes 1-9</a>
-                <a class="color" href="#About-the-Authors" class="color">About the Authors</a>
-                
-                <a class="color" href="#Subscribe-Form">Subscribe Form</a>
+                <a class="color" href="#Volumes-1-9">Volumes 1-9</a>
+                <a class="color" href="#About-the-Authors">About the Authors</a>
+
+                <a class="color" href="#Subscribe-Form">Subscribe</a>
             </nav>
         </div>
+    </section>
         <hr>
         <!-- 6 sections to the website on one 'scroll down' format -->
-        <section>
+        <section id="p-margin">
             <h3>Introduction</h3>
             <span>
-                <em id="p-margin">Like in comic books and graphic novels, this content is read left to right, then,
-                        top
-                        to bottom.</em>
-            
+                <em>Like in comic books and graphic novels, this content is read left to right, then,
+                    top
+                    to bottom.</em>
+
             </span>
             <div class="introduction">
                 <div class="introduction-unit">
@@ -194,7 +196,7 @@
         <section id="table-section">
             <div id="Volumes-1-9">
                 <h3 id="table-heading-position">Volumes 1-9</h3>
-                <span>
+                <div>
                     <table id="table">
                         <tr>
                             <th>Volume</th>
@@ -257,7 +259,7 @@
                             <td>49-54</td>
                         </tr>
                     </table>
-                </span>
+                </div>
             </div>
         </section>
         <section>
@@ -277,12 +279,15 @@
                         Due to the top releases of comic books and graphic novels coming on to the scene in 2018,
                         it was decided to post-pone the release of Saga issues 55-60 untill now.</p>
                     <ul>
-                        <h5>His other work includes:</h5>
-                        <li>Creater of Ex machina comic book series along side Tony Harric.</li>
-                        <li>Executive producer of the TV series Under the Dome.</li>
-                        <li>Creater of Paper Girls comic book series along side Cliff Chiang.</li>
-                        <li>Writer for Pride of Baghdad comic book series.</li>
-                        <li>Runaways superhero comic book series created along side Adrian Alphona</li>
+                        <li>His other work includes:</li>
+                        <ul>
+
+                            <li>Creater of Ex machina comic book series along side Tony Harric.</li>
+                            <li>Executive producer of the TV series Under the Dome.</li>
+                            <li>Creater of Paper Girls comic book series along side Cliff Chiang.</li>
+                            <li>Writer for Pride of Baghdad comic book series.</li>
+                            <li>Runaways superhero comic book series created along side Adrian Alphona</li>
+                        </ul>
                     </ul>
                     <div>To learn about about this fabulous writer, click the icon here:</div>
                     <div><a class="icon" href="https://en.wikipedia.org/wiki/Brian_K._Vaughan" target="_blank"
@@ -304,10 +309,14 @@
                         the quests of these
                         characters to life.</p>
                     <ul>
-                        <h5>Her illustrations can be seen, along side others, for pieces of work including:</h5>
-                        <li>Archie comics</li>
-                        <li>T.H.U.N.D.E.R. Agents</li>
-                        <li>Trick 'r Treat</li>
+
+                        <li>Her illustrations can be seen, along side others, for pieces of work including:</li>
+                        <ul>
+
+                            <li>Archie comics</li>
+                            <li>T.H.U.N.D.E.R. Agents</li>
+                            <li>Trick 'r Treat</li>
+                        </ul>
                     </ul>
                     <div>She has won many awards for her illustrations in the Saga Series. </div>
                     <div>Click the icon below to learn more about this artist:</div>
@@ -317,12 +326,12 @@
                 </fieldset>
             </div>
         </section>
-      
+
         <section id="form-set">
             <form method="POST" action="#" class="form-box">
-                <h3 id="Subscribe-Form" id="media-line-height">Subscribe Form</h3>
+                <h3 id="Subscribe-Form">Subscribe</h3>
                 <br>
-                <div>If you would be kept up to date with further releases,
+                <div id="media-line-height">If you would be kept up to date with further releases,
                     <br class="br-padding">
                     from the Saga series.
                     <br>
@@ -343,8 +352,8 @@
                     <br>
                     <button value="send" name="submit" class="submit">Submit</button>
 
+                </div>
             </form>
-            </div>
         </section>
         <footer>
             <ul class="footer">
@@ -385,6 +394,7 @@
         </footer>
     </section>
 </body>
+
 <script src="https://kit.fontawesome.com/f26ba66020.js" crossorigin="anonymous"></script>
 
 </html>
