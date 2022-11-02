@@ -7,6 +7,7 @@ body {
         font-family: 'Varela Round', 'Sans serif';
 }
 
+
 p {
     font-family: 'Noto Serif', 'Sans serif';
     text-align: center;
@@ -52,10 +53,9 @@ nav {
     color: rgb(238, 125, 13);
 }
 
-/* flex display used to show h2 elements below h1 and front image in the center */
+/* flex display used  h1 and front image in the center */
 .storage {
     display: flex;
-    height: 500px;
     flex-direction: row;
 }
 
@@ -74,7 +74,6 @@ hr {
 .introduction {
     display: flex;
     flex-direction: row;
-    padding: 20px 0;
 }
 
 #p-margin {
