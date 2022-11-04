@@ -57,6 +57,7 @@ nav {
 .storage {
     display: flex;
     flex-direction: row;
+    height: 400px;
 }
 
 .unit {
@@ -152,8 +153,7 @@ legend {
     font-weight: bold;
 }
 
-li {
-    text-align: center;
+ul {
     list-style-type: none;
     font-family: 'Noto Serif', 'Sans serif';
 }
