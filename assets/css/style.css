@@ -245,12 +245,20 @@ footer {
 }
 
 /* media enquiries */
+@media screen and (max-width: 1300px) {
+    #imageone {
+        display: block;
+    }
+    #imagetwo {
+        display: none;
+    }
+}
 
 @media screen and (max-width: 1100px) {
     #table {
         padding: 0 200px 50px 300px;
     }
-}
+    }
 
 @media screen and (max-width: 990px) {
     #table {
@@ -447,6 +455,7 @@ footer {
     #table {
         padding: 0 0 25px 0;
     }
+   
 }
 
 @media screen and (max-width: 345px) {
@@ -462,6 +471,12 @@ footer {
         margin: 0;
     }
     
+    #imageone {
+        display: none;
+    }
+    #imagetwo {
+        display: block;
+    }
 }
 
 @media screen and (max-width: 345px) {
