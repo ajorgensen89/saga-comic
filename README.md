@@ -24,21 +24,25 @@ Issue number and release dates given
 
 
 Volume 1-9.
+
 	Table introduced for this section to show information about their previous releases however, this was not the main focus of the website so thought a simple table of 
 information was a good display method.
 
 
 About the Author.
+
 	Fieldsets used to set the information in a separated design from writer and Artist of the website.
 Clickable Icons used for Wikipedia links for further information.
 
 
 Subscribtion Form.
+
 	Background image used with Form information over the top. Image used for the background was the final image in volume 9 back in 2018 before the hiatus began.
 Purpose of the form is for people to subscribe to get upto date release inforamtion.
 
 
 Footer.
+
 	Included link to the publishers homepage for the Saga Comic series.
 Links to their social media platforms.
 Link to being able to purchase the issue through Kindle and Amazon. 
@@ -58,6 +62,7 @@ HTML - Validated on the Official W3C Validator.
 
 CSS - Validated on Jigsaw Validator.
 
+No errors in css. Pass.
 
 General Bugs and problems.
 
@@ -111,11 +116,10 @@ Acknowledgements.
 Code Institute course for acceptance into this world.
 Anna Greaves for Love Running module run through.
 Slack Community
-Mentor Precious Liege.
+Mentor Precious Ljege.
 Attempted 2 tone background to Intro paragraphs.
 Used padding and letter spacing and line height to space out some of the content on the page.
 
-Table positioning is a nightmare.
 
 IMAGE COMICS - release dates.
 Tweak letter spacing in fieldset. Add h5 to ul lists.
