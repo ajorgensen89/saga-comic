@@ -89,6 +89,7 @@ All have clickable links via clickable icons.
 ***
 ### Future Features.
 For features to add to this website I would have liked to added a Character gallery to show some more of the illustrations of the Saga Comic Book Series.
+***
 ## Testing.
 ### HTML - Validated on the Official W3C Validator.
 #### **Bugs fixed.**
@@ -143,6 +144,14 @@ https://www.w3schools.com/howto/howto_css_placeholder.asp
 ***
 ## User experience	
 ### Wireframe
+Used to design the layour of the website. Final website has been made different to the wireframe provided.
+Certain elements such as the, Character gallery, was removed and added to future adapations to the webpage's features.
+
+**Computer View**
+![Laptop View of wireframe](assets/images/WireframeL.png)
+
+**Mobile Device view.**
+![Mobile Device View](assets/images/WireframeS.png) ![Mobile Device View](assets/images/WireframeS2.png)
 ### Design
 #### Colour Scheme
 The beige to orange colour field continued down into the rest of the page, was used as a subtle hint to the colours in the characters clothing on the landing page image, aswell as the main 'Saga' title in the image.
