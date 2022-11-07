@@ -5,11 +5,13 @@
 body {
         color: rgb(29, 7, 51);
         font-family: 'Varela Round', 'Sans serif';
-        margin: 0 auto;
-        padding: 0 auto;
-        border: 0 auto;
+        margin: 0;
+        padding: 0;
+        border: 0;
 }
-
+h1 {
+    margin-left: 20px;
+}
 header {
     background-color: rgba(240, 209, 178, 0.9);
     color: rgb(29, 7, 51);
@@ -189,9 +191,6 @@ ul {
     border-radius: 40px;
 }
 
-/* .br-padding {
-    padding: 4px 0 4px 0;
-} */
 .submit {
     background-color: azure;
     padding: 10px;
@@ -253,16 +252,6 @@ footer {
 .footer {
     padding: 0;
 }
-
-/* media enquiries */
-/* @media screen and (max-width: 1300px) {
-    #imageone {
-        display: block;
-    }
-    #imagetwo {
-        display: none;
-    }
-} */
 
 @media screen and (max-width: 1300px) {
     #table {
@@ -354,16 +343,6 @@ footer {
         font-size: 15px;
     }
 
-    /* .unit {
-        border-top: 30px;
-        padding-top: 30px;
-        margin-top: 30px;
-        height: 400px;
-        font-size: 30px;
-        font-weight: 100;
-        width: 33%;
-    } */
-
     #imageone {
         margin-top: 10px;
     }
@@ -414,10 +393,6 @@ footer {
     nav {
         font-size: 10px;
 }
-    
-}
-
-@media screen and (max-width: 622px) {
     
 }
 
@@ -569,10 +544,7 @@ footer {
         padding: 0 0 3px 0;
         margin: 0 5px 0 2px;
     }
-    /* #media {
-        margin: 0;
-    } */
-
+   
     #imageone {
         width: 180px;
         height: 260px;
