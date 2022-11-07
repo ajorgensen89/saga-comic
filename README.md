@@ -1,5 +1,5 @@
 Landing page.
-
+![Landing Page](/assets/images/LandingPage.png)
 	Head title purpose of page includes 'New Saga to 2022' and image of main characters. Subtitles shows focus about the New Issues released this year.
 
 Heading position - position along top of page better using line-height. 
