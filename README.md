@@ -19,6 +19,7 @@
 	- [About the Author](#about-the-author)
 	- [Subscribtion Form](#subscribtion-form)
 	- [Footer](#footer)
+	- [Future features](#future-features)
 * [Testing](#testing)
 	- [HTML](#html)
 		- [Bugs Fixed](#bugs-fixed)
@@ -31,6 +32,7 @@
 	- [Design](#design)
 		- [Colour Scheme](#colour-scheme)
 		- [Typography](#typography)
+* [Clone Website](#clone-website)
 * [Deployment](#deployment)
 * [Technologies](#technologies)
 
@@ -85,6 +87,8 @@ All have clickable links via clickable icons.
 
 [Back to Top](#new-saga-comic-launch-in-2022)
 ***
+### Future Features.
+For features to add to this website I would have liked to added a Character gallery to show some more of the illustrations of the Saga Comic Book Series.
 ## Testing.
 ### HTML - Validated on the Official W3C Validator.
 #### **Bugs fixed.**
@@ -156,12 +160,17 @@ The two I choose has subtle differences, giving the paragraphs a font of 'Noto S
 
 [Back to Top](#new-saga-comic-launch-in-2022)
 
+
 ### **Properties continued throughout website.**
 Pixels height of 10px's increments over the webpage.
 
 Padding increased in 2px increments used where necessary (e.g. 2px, 4px, 6px)
 
 [Back to Top](#new-saga-comic-launch-in-2022)
+***
+### Clone Website.
+The process of cloning the website can be seen below.
+
 ***
 ## Deployment.
 The process involved signing into GitHub pages and opening the repository. 
