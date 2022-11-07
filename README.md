@@ -143,6 +143,14 @@ https://www.w3schools.com/howto/howto_css_placeholder.asp
 [Back to Top](#new-saga-comic-launch-in-2022)
 ***
 ## User experience	
+### Properties continued throughout website.
+Border-radius continued throughout the webpage for a 'round world' effect.
+
+Pixels height of 10px's increments over the webpage.
+
+Padding increased in 2px increments used where necessary (e.g. 2px, 4px, 6px)
+
+[Back to Top](#new-saga-comic-launch-in-2022)
 ### Wireframe
 Used to design the layour of the website. Final website has been made different to the wireframe provided.
 Certain elements such as the, Character gallery, was removed and added to future adapations to the webpage's features.
@@ -169,17 +177,12 @@ The two I choose has subtle differences, giving the paragraphs a font of 'Noto S
 
 [Back to Top](#new-saga-comic-launch-in-2022)
 
-
-### **Properties continued throughout website.**
-Pixels height of 10px's increments over the webpage.
-
-Padding increased in 2px increments used where necessary (e.g. 2px, 4px, 6px)
-
-[Back to Top](#new-saga-comic-launch-in-2022)
 ***
 ### Clone Website.
 The process of cloning the website can be seen below.
 
+
+[Back to Top](#new-saga-comic-launch-in-2022)
 ***
 ## Deployment.
 The process involved signing into GitHub pages and opening the repository. 
