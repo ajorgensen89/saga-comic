@@ -1,17 +1,15 @@
-Landing page.
+#Landing page.
 ![Landing Page](/assets/images/LandingPage.png)
-	Head title purpose of page includes 'New Saga to 2022' and image of main characters. Subtitles shows focus about the New Issues released this year.
+	(p)Head title purpose of page includes 'New Saga to 2022' and image of main characters. Subtitles shows focus about the New Issues released this year after a hiatus since 2018.
 
-Heading position - position along top of page better using line-height. 
-Improve position of h1 and h1 ~ p to each other.
 Removed and change heading titles - Changed head title through the building of the website to make the focus on the purpose of the website highlight the new releases after a 
 hiatus from 2018 untill 2022.
 
 
 
-Introduction Page.
+#Introduction Page.
 
-	Includes navigation down the page through anchor links. Information surrounds general introduction to the storyline of the Saga Comics. Used Flex box to position them 
+	(p)Includes navigation down the page through anchor links. Information surrounds general introduction to the storyline of the Saga Comics. Used Flex box to position them 
 how you would read in a comic.
 Starting from the top and then reading left to right.
 Beige colour to continue down into the rest of the page.

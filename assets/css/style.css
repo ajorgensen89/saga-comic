@@ -82,11 +82,6 @@ h4 {
 
 /* Introduction information display */
 
-#p-margin {
-    margin-left: 20px;
-}
-
-
 .introduction {
     display: flex;
     flex-direction: row;
@@ -237,6 +232,9 @@ form > h3 {
     margin: 5px;
 }
 
+::placeholder {
+    color: azure;
+}
 /* footer */
 footer {
     background-color: rgba(240, 209, 178, 0.9);
@@ -268,7 +266,7 @@ footer {
 
 @media screen and (max-width: 1300px) {
     #table {
-        padding: 0 200px 50px 350px;
+        padding: 0 200px 50px 400px;
     }
     }
 
