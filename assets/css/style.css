@@ -15,6 +15,7 @@ h1 {
 header {
     background-color: rgba(240, 209, 178, 0.9);
     color: rgb(29, 7, 51);
+    border-bottom: 1px solid rgb(29, 7, 51);
     position: fixed;
     width: 100%;
 }
@@ -234,7 +235,21 @@ form > h3 {
 ::placeholder {
     color: azure;
 }
+/* Form to get back to main page */
+#form-back {
+    padding: 150px 0 0 500px;
+    font-size: 20px;
+    font-weight: 100;
+    color: rgb(2, 9, 4);
+    width: 300px;
+    height: 320px;
+}
+#here-hover:hover {
+    color: rgb(238, 125, 13);
+}
+
 /* footer */
+
 footer {
     background-color: rgba(240, 209, 178, 0.9);
     color: rgb(2, 9, 4);
@@ -352,6 +367,11 @@ footer {
    
     #imageone {
         margin-top: 30px;
+    }
+    #form-back {
+        padding: 150px 0 0 300px;
+        font-size: 15px;
+        font-weight: 100;
     }
 }
 
@@ -583,5 +603,9 @@ footer {
     border-radius: 40px;
 }
 
-
+#form-back {
+    padding: 150px 0 0 2px;
+    font-size: 15px;
+    font-weight: 100;
+}
 }

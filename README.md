@@ -107,7 +107,8 @@ Use of _h5_ and _h6_ in certain sections such as _ul_ and _fieldset_ did not pas
 ![HTML Error](assets/images/HTMLRemain.png)
 
 [Back to Top](#new-saga-comic-launch-in-2022)
-### CSS 
+### CSS
+I faced one bug in my CSS when setting the borders, margins and padding to the _body_ of the website. I fixed this issues and it passed. 
 ![Fixed CSS bug to achieve Pass](assets/images/CSSIssue.png)
 	
 [Back to Top](#new-saga-comic-launch-in-2022)
@@ -143,12 +144,20 @@ https://www.w3schools.com/howto/howto_css_placeholder.asp
 [Back to Top](#new-saga-comic-launch-in-2022)
 ***
 ## User experience	
+	The general experience should allow the audience to briefly understand how Comics are put togther and read. Then, I have impletmented a large portion of the website to the New Comic Issues this year so they easily avaliable to notice. 
+	Information can be found about the hiatus both the Writer and Illustrator for the Comic took and a link to find more information is avaiable from the website. Including, the Pulisher of this particular Comic book Series.
+	An easy subscribtion form can be found to sign up for future details and the footer contains links to look further in their Social aspects and purchasing the Comics themselves.
 ### Properties continued throughout website.
 Border-radius continued throughout the webpage for a 'round world' effect.
 
 Pixels height of 10px's increments over the webpage.
 
 Padding increased in 2px increments used where necessary (e.g. 2px, 4px, 6px)
+
+[Back to Top](#new-saga-comic-launch-in-2022)
+
+### 'Back' Form
+
 
 [Back to Top](#new-saga-comic-launch-in-2022)
 ### Wireframe
@@ -211,8 +220,12 @@ Technologies used thoughout this wesbite.
 3. [Code Institute](url'https://codeinstitute.net/') Course Plan
 4. W3C [HTML cod Validator](url'https://validator.w3.org/') and [CSS Code Validator](url'https://jigsaw.w3.org/')
 5. [w3schools](url'https://www.w3schools.com/') 'How to' information. 
-5. [README.md](url'https://www.ionos.com/digitalguide/websites/web-development/readme-file/') writing assistance.
-6. [Balsamiq](url'https://balsamiq.com/') used to create wireframes. 
+6. [README.md](url'https://www.ionos.com/digitalguide/websites/web-development/readme-file/') writing assistance.
+7. [Balsamiq](url'https://balsamiq.com/') used to create wireframes. 
+8. Lighthouse Overview. Pictured below.
+![Lighthouse](assets/images/Lighthouse.png) 
+9. Chrome Devtools is used for a brief look of the website. Included in this view is the General Overview and Colour chart. (Orange colour for the _hover_ attribute not included in chart)
+![Chrome Devtools](assets/images/overview.colour.png) 
 
 [Back to Top](#new-saga-comic-launch-in-2022)
 
@@ -233,8 +246,8 @@ Technologies used thoughout this wesbite.
 This project was completed as part of my Project One for My Portfolio for the Full Stack Software Developer Course provided by Code Institute.
 My Acknowledgements would like to go out to:
 - Code Institute course for acceptance into this world.
-- Anna Greaves for Love Running module 'run through' over Code Institute Coursework.
-- Slack Community for help throughout
+- Anna Greaves for Love Running module 'run through' over the [Code Institute](url'https://codeinstitute.net/') Coursework.
+- [Slack](url'https://slack.com/intl/en-gb/') Community for help throughout.
 - Mentor Precious Ljege for encourgement to produce better and advise along the way.
 - [Image Comics](url'https://imagecomics.com/comics/series') for comic books release dates and Issue information.
 
