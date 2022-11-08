@@ -81,6 +81,8 @@ h4 {
 #imageone {
     width: 440px;
     height: 410px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* Introduction information display */
@@ -137,12 +139,12 @@ td, th, tr {
 }
 
 #table {
-    padding: 0 200px 50px 400px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #table-heading-position {
-    line-height: 10px;
-    padding: 10px 0;
+    padding-top: 10px;
 }
 
 /* fieldset element with unordered lists in About Authors section */
@@ -273,16 +275,9 @@ footer {
     padding: 0;
 }
 
-@media screen and (max-width: 1300px) {
-    #table {
-        padding: 0 200px 50px 500px;
-    }
-    }
-
+/* Media Enteries */
 @media screen and (max-width: 990px) {
-    #table {
-        padding: 0 150px 50px 400px;
-    }
+    
 
     #imageone {
         width: 380px;
@@ -326,9 +321,7 @@ footer {
 }
 }
 @media screen and (max-width: 880px) {
-    #table {
-        padding: 0 100px 50px 300px;
-    }
+    
     #imageone {
         width: 320px;
         height: 360px;
@@ -344,9 +337,7 @@ footer {
 }
 
 @media screen and (max-width: 840px) {
-    #table {
-        padding: 0 75px 50px 250px;
-    }
+    
     h1 {
         font-size: 20px;
     }
@@ -356,9 +347,7 @@ footer {
 }
 
 @media screen and (max-width: 800px) {
-    #table {
-        padding: 0 50px 50px 225px;
-    }
+   
     .unit {
         font-size: 15px;
     }
@@ -381,27 +370,21 @@ footer {
 }
 
 @media screen and (max-width: 740px) {
-    #table {
-        padding: 0 25px 50px 200px;
-    }
+    
     #imageone {
         width: 300px;
     }
 }
 
 @media screen and (max-width: 700px) {
-    #table {
-        padding: 0 50px 50px 175px;
-    }
+    
     .unit {
         width: 233px;
     }
 }
 
 @media screen and (max-width: 670px) {
-    #table {
-        padding: 0 50px 50px 150px;
-    }
+   
     .footer {
         padding: 0 0 0 10px;
     }
@@ -422,36 +405,22 @@ footer {
 }
 
 @media screen and (max-width: 610px) {
-    #table {
-        padding: 0 25px 50px 125px;
-    }
+    
     #media {
         margin: 0 0 0 125px;
     }
 }
 
-@media screen and (max-width: 600px) {
-    #table {
-        padding: 0 10px 50px 100px;
-    }
-}
 
 @media screen and (max-width: 560px) {
-    #table {
-        padding: 0 10px 25px 75px;
-    }
+    
     #media {
         margin: 0 0 0 100px;
     }
 }
 
 @media screen and (max-width: 530px) {
-    #table {
-        padding: 0 0 25px 50px;
-    }
-    /* #media {
-        margin: 0 0 0 75px;
-    } */
+    
     #imageone {
         width: 280px;
         height: 340px;
@@ -459,13 +428,7 @@ footer {
 }
 
 @media screen and (max-width: 480px) {
-    #table {
-        padding: 0 0 25px 10px;
-    }
-    /* h1 {
-        line-height: normal;
-        margin: 0;
-    } */
+     
     .footer {
         line-height: normal;
         font-size: 10px;
@@ -491,9 +454,7 @@ footer {
 }
 
 @media screen and (max-width: 424px) {
-    /* #media {
-        margin: 0 0 0 50px;
-    } */
+    
     .footer {
         margin-top: 4px;
     }
@@ -501,9 +462,7 @@ footer {
 
 /* average large mobile width */
 @media screen and (max-width: 414px) {
-    #table {
-        padding: 0 0 25px 0;
-    }
+    
     .introduction-unit {
         padding: 0 5px 3px 5px;
         margin: 0 10px 0 10px;
@@ -544,9 +503,6 @@ footer {
 /* average mobile width */
 
 @media screen and (max-width: 375px) {          
-    #table {
-        padding: 0 0 25px 0;
-    }
    #imageone {
     width: 200px;
     height: 280px;
@@ -558,18 +514,14 @@ footer {
 }
 
 @media screen and (max-width: 345px) {
-    #table {
-        padding: 0 0 25px 0;
-    }
-
-    .introduction-unit {
+       .introduction-unit {
         padding: 0 0 3px 0;
         margin: 0 5px 0 2px;
     }
    
     #imageone {
-        width: 200px;
-        height: 260px;
+        width: 180px;
+        height: 240px;
     }
     
     .unit {
