@@ -2,7 +2,7 @@
 
 ## Landing page.
 ![Landing Page](assets/images/LandingPage.png)
-[New Saga Comics!]()
+[New Saga Comics!](url'https://ajorgensen89.github.io/saga-comic/')
 
 	Head purpose of page includes 'New Saga to 2022' and image of main characters. 
 	Th
@@ -201,7 +201,17 @@ The two I choose has subtle differences, giving the paragraphs a font of 'Noto S
 ***
 ### Clone Website.
 The process of cloning the website can be seen below.
+1. Click the _Code_ button to clone the HTML. 
+2. Click the _copy_ link below the code button (shown in the lower purple square on the image below).
 
+![Clone step 1 and 2](assets/images/clone1.png)
+
+3.Input your url in [Git Bash](url'') after the _$_ symbol.
+Write _git clone_ so it looks like the image below when HTML is inserted. 
+
+Hit _enter_.
+
+![Clone step 3](assets/images/clonedone.png) 
 
 [Back to Top](#new-saga-comic-launch-in-2022)
 ***
@@ -219,7 +229,7 @@ The process involved signing into GitHub pages and opening the repository.
 - Click 'View Deployment'
 ![Step 4](assets/images/GithubPages4.png)
 
-Active link: 
+Active link: https://ajorgensen89.github.io/saga-comic/
 
 [Back to Top](#new-saga-comic-launch-in-2022)
 ***
