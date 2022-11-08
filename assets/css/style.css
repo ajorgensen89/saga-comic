@@ -41,7 +41,7 @@ h4 {
 .color {
     color: rgb(29, 7, 51);
     padding: 0 3px 0 3px;
-    text-decoration: none;
+    text-decoration: dotted;
     text-align: center;
 }
 
@@ -197,6 +197,8 @@ ul {
     padding: 10px;
     text-align: center;
     border-radius: 10px;
+    text-decoration: none;
+    color: rgb(2, 9, 4)
 }
 
 .form-input {
@@ -243,6 +245,9 @@ form > h3 {
     color: rgb(2, 9, 4);
     width: 300px;
     height: 320px;
+}
+.text-decoration {
+    text-decoration: none;
 }
 #here-hover:hover {
     color: rgb(238, 125, 13);
@@ -513,9 +518,6 @@ footer {
 }
 
 @media screen and (max-width: 390px) {
-    /* #media {
-        margin: 0 0 0 25px;
-    } */
    .form-box {
     width: 150px;
     height: 450px;
@@ -532,7 +534,7 @@ footer {
     display: flex;
     flex-direction: column;
 }
-.box {
+    .box {
     height: 200px;
     width: 200px;
     margin-left: 70px;
@@ -586,8 +588,10 @@ footer {
 @media screen and (max-width: 320px) {
 
     .form-box {
-    width: 140px;
+    width: 150px;
     height: 450px;
+    padding: 30px 40px 150px 30px;
+    margin-bottom: 100px;
    }
 
    .introduction {
