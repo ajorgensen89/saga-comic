@@ -142,8 +142,8 @@ Some general Issues and bugs I faced when creating thie website
 https://www.w3schools.com/howto/howto_css_placeholder.asp
 
 ### Browser Testing.
-All loading and avaliable to view while tested on Microsoft Edge, Google Chrome, Opera and Firefox.
-Loading problems found with Safari.
+All loading and avaliable to view while tested on [Microsoft Edge](url'https://www.microsoft.com/en-us/edge?form=MA13FJ'), [Google Chrome](url'https://www.google.co.uk/chrome/'), [Opera](url'https://www.opera.com/') and [Firefox](url'https://www.mozilla.org/en-GB/firefox/new/').
+Loading problems found with [Safari](url'https://www.apple.com/uk/safari/').
 
 [Back to Top](#new-saga-comic-launch-in-2022)
 
