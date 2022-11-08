@@ -97,7 +97,8 @@ For features to add to this website I would have liked to added a Character gall
 
 Use of _span_ in a number of occasions came back as unsuitable so adapted and changed to _div_.
 ![HTML Error](assets/images/HTMLIssues.png)
-Image evidence not captured before fixing the bugs encounter below.
+Image evidence not captured before fixing the bugs encountered here:
+
 Use of _h5_ and _h6_ in certain sections such as _ul_ and _fieldset_ did not pass. 
 
 Use of an _anchor_ element around the _button_ or _input_ elements did not work. I needed to change my form _method_ to _'method="GET"_ instead of _"POST"_ and remove the _anchor_ element. 
@@ -107,7 +108,7 @@ Used Tutor Support for this fix.
 
 #### **Bugs remaining.**
 
-	Error reads for my _script_ input for the Icons attachment however,	it was positioned where stated in course information of the Love Running Project provided by Code Institute. All Icons are linked and working in the deployed website on Github and Gitpod.
+Error reads for my _script_ input for the Icons attachment however,	it was positioned where stated in course information of the Love Running Project provided by Code Institute. All Icons are linked and working in the deployed website on Github and Gitpod.
 
 ![HTML Error](assets/images/HTMLRemain.png)
 
@@ -134,7 +135,7 @@ Some general Issues and bugs I faced when creating thie website
     	- width:  100%;
     	- height: 700px;
     	- overflow: hidden;}
-* To the above CSS I added the this above input: 
+* To the above CSS I added this input: 
 	- height 
 	- font-size
 	- border-radius.	
@@ -148,14 +149,15 @@ Loading problems found with [Safari](url'https://www.apple.com/uk/safari/').
 [Back to Top](#new-saga-comic-launch-in-2022)
 
 ### Unfixed Problems.
-		Lots of media enteries made for position of the table in the Volume 1-9 section as I struggled to make it adjust 'naturally' to fit the page. To center the page when viewed I used different pixel widths {different screen widths) in these media enteries.
-		Central positioning for text within <Fieldset> looks slightly off when viewed on a webpage even when 'text-align: center;' is set to this section.
+Lots of media enteries made for position of the table in the Volume 1-9 section as I struggled to make it adjust 'naturally' to fit the page. To center the page when viewed I used different pixel widths {different screen widths) in these media enteries.
+Central positioning for text within _Fieldset_ looks slightly off when viewed on a webpage even when 'text-align: center;' is set to this section.
+
 [Back to Top](#new-saga-comic-launch-in-2022)
 ***
 ## User experience	
-	The general experience should allow the audience to briefly understand how Comics are put togther and read. Then, I have impletmented a large portion of the website to the New Comic Issues this year so they easily avaliable to notice. 
-	Information can be found about the hiatus both the Writer and Illustrator for the Comic took and a link to find more information is avaiable from the website. Including, the Pulisher of this particular Comic book Series.
-	An easy subscribtion form can be found to sign up for future details and the footer contains links to look further in their Social aspects and purchasing the Comics themselves.
+The general experience should allow the audience to briefly understand how Comics are put togther and read. Then, I have impletmented a large portion of the website to the New Comic Issues this year so they easily avaliable to notice. 
+Information can be found about the hiatus both the Writer and Illustrator for the Comic took and a link to find more information is avaiable from the website. Including, the Pulisher of this particular Comic book Series.
+An easy subscribtion form can be found to sign up for future details and the footer contains links to look further in their Social aspects and purchasing the Comics themselves.
 ### Properties continued throughout website.
 Border-radius continued throughout the webpage for a 'round world' effect.
 
@@ -166,7 +168,8 @@ Padding increased in 2px increments used where necessary (e.g. 2px, 4px, 6px)
 [Back to Top](#new-saga-comic-launch-in-2022)
 
 ### 'Back' Form
-
+Title and footer included on the form to return to the main website.
+!['Back' form](assets/images/Backform.png)
 
 [Back to Top](#new-saga-comic-launch-in-2022)
 ### Wireframe
