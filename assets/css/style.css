@@ -41,7 +41,7 @@ h4 {
 .color {
     color: rgb(29, 7, 51);
     padding: 0 3px 0 3px;
-    text-decoration: dotted;
+    text-decoration-line: underline;
     text-align: center;
 }
 
@@ -242,12 +242,12 @@ form > h3 {
     padding: 150px 0 0 500px;
     font-size: 20px;
     font-weight: 100;
-    color: rgb(2, 9, 4);
     width: 300px;
     height: 320px;
 }
 .text-decoration {
     text-decoration: none;
+    color: rgb(2, 9, 4);
 }
 #here-hover:hover {
     color: rgb(238, 125, 13);
