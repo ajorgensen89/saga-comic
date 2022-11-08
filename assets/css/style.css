@@ -79,8 +79,8 @@ h4 {
 }
 
 #imageone {
-    width: 400px;
-    height: 400px;
+    width: 440px;
+    height: 410px;
 }
 
 /* Introduction information display */
@@ -108,7 +108,7 @@ h4 {
 
 .box {
     height: 200px;
-    width: 200px;
+    width: 230px;
     border-radius: 40px;
     border: 1px solid rgb(29, 7, 51);
 }
@@ -275,13 +275,13 @@ footer {
 
 @media screen and (max-width: 1300px) {
     #table {
-        padding: 0 200px 50px 400px;
+        padding: 0 200px 50px 500px;
     }
     }
 
 @media screen and (max-width: 990px) {
     #table {
-        padding: 0 150px 50px 300px;
+        padding: 0 150px 50px 400px;
     }
 
     #imageone {
@@ -327,7 +327,7 @@ footer {
 }
 @media screen and (max-width: 880px) {
     #table {
-        padding: 0 100px 50px 250px;
+        padding: 0 100px 50px 300px;
     }
     #imageone {
         width: 320px;
@@ -345,7 +345,7 @@ footer {
 
 @media screen and (max-width: 840px) {
     #table {
-        padding: 0 75px 50px 200px;
+        padding: 0 75px 50px 250px;
     }
     h1 {
         font-size: 20px;
@@ -357,7 +357,7 @@ footer {
 
 @media screen and (max-width: 800px) {
     #table {
-        padding: 0 50px 50px 175px;
+        padding: 0 50px 50px 225px;
     }
     .unit {
         font-size: 15px;
@@ -382,7 +382,7 @@ footer {
 
 @media screen and (max-width: 740px) {
     #table {
-        padding: 0 25px 50px 150px;
+        padding: 0 25px 50px 200px;
     }
     #imageone {
         width: 300px;
@@ -391,7 +391,7 @@ footer {
 
 @media screen and (max-width: 700px) {
     #table {
-        padding: 0 50px 50px 125px;
+        padding: 0 50px 50px 175px;
     }
     .unit {
         width: 233px;
@@ -400,7 +400,7 @@ footer {
 
 @media screen and (max-width: 670px) {
     #table {
-        padding: 0 50px 50px 100px;
+        padding: 0 50px 50px 150px;
     }
     .footer {
         padding: 0 0 0 10px;
@@ -423,7 +423,7 @@ footer {
 
 @media screen and (max-width: 610px) {
     #table {
-        padding: 0 25px 50px 75px;
+        padding: 0 25px 50px 125px;
     }
     #media {
         margin: 0 0 0 125px;
@@ -432,13 +432,13 @@ footer {
 
 @media screen and (max-width: 600px) {
     #table {
-        padding: 0 10px 50px 75px;
+        padding: 0 10px 50px 100px;
     }
 }
 
 @media screen and (max-width: 560px) {
     #table {
-        padding: 0 10px 25px 50px;
+        padding: 0 10px 25px 75px;
     }
     #media {
         margin: 0 0 0 100px;
@@ -447,7 +447,7 @@ footer {
 
 @media screen and (max-width: 530px) {
     #table {
-        padding: 0 0 25px 25px;
+        padding: 0 0 25px 50px;
     }
     /* #media {
         margin: 0 0 0 75px;
@@ -568,7 +568,7 @@ footer {
     }
    
     #imageone {
-        width: 180px;
+        width: 200px;
         height: 260px;
     }
     

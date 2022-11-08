@@ -26,6 +26,7 @@
 		- [Bugs Remaining](#bugs-remaining)
 	- [CSS](#css)
 	- [General](#general)
+		- [Browser Testing](#browser-testing)
 		- [Unfixed Problems](#unfixed-problems)
 * [User Experience](#user-experience)
 	- [Wireframe](#wireframe)
@@ -95,14 +96,18 @@ For features to add to this website I would have liked to added a Character gall
 #### **Bugs fixed.**
 
 Use of _span_ in a number of occasions came back as unsuitable so adapted and changed to _div_.
-
+![HTML Error](assets/images/HTMLIssues.png)
 Image evidence not captured before fixing the bugs encounter below.
 Use of _h5_ and _h6_ in certain sections such as _ul_ and _fieldset_ did not pass. 
-![HTML Error](assets/images/HTMLIssues.png)
+
+Use of an _anchor_ element around the _button_ or _input_ elements did not work. I needed to change my form _method_ to _'method="GET"_ instead of _"POST"_ and remove the _anchor_ element. 
+Used Tutor Support for this fix.
+![anchor error](assets/images/HTMLanchor.png)
+
 
 #### **Bugs remaining.**
 
-	Error reads for my <script> input for the Icons attachment however,	it was positioned where stated in course information of the Love Running Project provided by Code Institute. All Icons are linked and working in the deployed website.
+	Error reads for my _script_ input for the Icons attachment however,	it was positioned where stated in course information of the Love Running Project provided by Code Institute. All Icons are linked and working in the deployed website on Github and Gitpod.
 
 ![HTML Error](assets/images/HTMLRemain.png)
 
@@ -135,6 +140,10 @@ Some general Issues and bugs I faced when creating thie website
 	- border-radius.	
 * Changing the _'placeholder'_ text colour for the button for the form. Below website assistance used: 
 https://www.w3schools.com/howto/howto_css_placeholder.asp
+
+### Browser Testing.
+All loading and avaliable to view while tested on Microsoft Edge, Google Chrome, Opera and Firefox.
+Loading problems found with Safari.
 
 [Back to Top](#new-saga-comic-launch-in-2022)
 
@@ -252,6 +261,7 @@ My Acknowledgements would like to go out to:
 - [Slack](url'https://slack.com/intl/en-gb/') Community for help throughout.
 - Mentor Precious Ljege for encourgement to produce better and advise along the way.
 - [Image Comics](url'https://imagecomics.com/comics/series') for comic books release dates and Issue information.
+- Oisin on Tutor Support for Code Institute Course.
 
 [Back to Top](#new-saga-comic-launch-in-2022)
 
