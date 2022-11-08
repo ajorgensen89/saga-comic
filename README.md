@@ -226,6 +226,8 @@ Technologies used thoughout this wesbite.
 ![Lighthouse](assets/images/Lighthouse.png) 
 9. Chrome Devtools is used for a brief look of the website. Included in this view is the General Overview and Colour chart. (Orange colour for the _hover_ attribute not included in chart)
 ![Chrome Devtools](assets/images/overview.colour.png) 
+10. [Am I responsive?](url'https://ui.dev/amiresponsive') webpage used to test the view on various devices.
+![Am I Responsive](assets/images/)
 
 [Back to Top](#new-saga-comic-launch-in-2022)
 
