@@ -3,15 +3,17 @@
 /* basic starting styles for page, titles and paragraphs */
 
 body {
-        color: rgb(29, 7, 51);
-        font-family: 'Varela Round', 'Sans serif';
-        margin: 0;
-        padding: 0;
-        border: 0;
+    color: rgb(29, 7, 51);
+    font-family: 'Varela Round', 'Sans serif';
+    margin: 0;
+    padding: 0;
+    border: 0;
 }
+
 h1 {
     margin-left: 20px;
 }
+
 header {
     background-color: rgba(240, 209, 178, 0.9);
     color: rgb(29, 7, 51);
@@ -52,20 +54,23 @@ h4 {
 .float-right {
     float: right;
     line-height: 20px;
-    margin:20px 10px 0 0;
+    margin: 20px 10px 0 0;
     text-align: center;
 
 }
+
 .float-left {
     float: left;
     line-height: 20px;
-    
+
 }
+
 /* flex display used  h1 and front image in the center */
+
 .storage {
     display: flex;
     flex-direction: row;
-    
+
 }
 
 .unit {
@@ -123,7 +128,9 @@ th {
     text-transform: uppercase;
 }
 
-td, th, tr {
+td,
+th,
+tr {
     border: 1px solid rgb(29, 7, 51);
     border-left: 1px solid rgb(29, 7, 51);
     border-right: 1px solid rgb(29, 7, 51);
@@ -155,7 +162,7 @@ fieldset {
 
 .fieldset {
     text-align: center;
-    letter-spacing: 1px;        
+    letter-spacing: 1px;
     line-height: normal;
 }
 
@@ -186,7 +193,7 @@ ul {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    width:  100%;
+    width: 100%;
     height: 700px;
     overflow: hidden;
     font-size: 20px;
@@ -206,7 +213,7 @@ ul {
     background: transparent;
     width: 100%;
     height: 30px;
-    margin:5px 0 20px 0;
+    margin: 5px 0 20px 0;
     border: 1px solid azure;
     border-radius: 40px;
 }
@@ -226,11 +233,11 @@ ul {
     color: azure;
 }
 
-form > div {
+form>div {
     color: azure;
 }
 
-form > h3 {
+form>h3 {
     color: azure;
     margin: 5px;
 }
@@ -238,7 +245,9 @@ form > h3 {
 ::placeholder {
     color: azure;
 }
+
 /* Form to get back to main page */
+
 #form-back {
     padding: 150px 0 0 500px;
     font-size: 20px;
@@ -246,10 +255,12 @@ form > h3 {
     width: 300px;
     height: 320px;
 }
+
 .text-decoration {
     text-decoration: none;
     color: rgb(2, 9, 4);
 }
+
 #here-hover:hover {
     color: rgb(238, 125, 13);
 }
@@ -262,8 +273,7 @@ footer {
     border-radius: 40px;
 }
 
-
-.footer > li {
+.footer>li {
     display: inline-block;
     height: 70px;
     width: 19%;
@@ -275,58 +285,66 @@ footer {
 }
 
 /* Media Enteries */
+
 @media screen and (max-width: 990px) {
     .float-right {
-        
-        margin:20px 0px 0 0;
+
+        margin: 20px 0px 0 0;
     }
 
     h1 {
         font-size: 30px;
     }
+
     nav {
         font-size: 15px;
-}
+    }
+
     #imageone {
         width: 380px;
         height: 400px;
     }
 }
 
-@media  screen and (max-width: 970px){
-        
+@media screen and (max-width: 970px) {
+
     #imageone {
         width: 360px;
         height: 380px;
     }
 }
 
-@media  screen and (max-width: 940px){
-   
+@media screen and (max-width: 940px) {
+
     h1 {
         font-size: 25px;
     }
-   nav {
-    font-size: 10px;
-   }
+
+    nav {
+        font-size: 10px;
+    }
+
     #imageone {
-    width: 340px;
-    height: 380px;
-   }
+        width: 340px;
+        height: 380px;
+    }
 }
+
 @media screen and (max-width: 900px) {
 
-#introduction {
-    height: 400px;
+    #introduction {
+        height: 400px;
+    }
 }
-}
+
 @media screen and (max-width: 880px) {
-    
+
     #imageone {
         width: 320px;
         height: 360px;
     }
 }
+
 @media screen and (max-width: 855px) {
     h1 {
         font-size: 20px;
@@ -334,14 +352,14 @@ footer {
 }
 
 @media screen and (max-width: 840px) {
-    
+
     nav {
         font-size: 10px;
     }
 }
 
 @media screen and (max-width: 800px) {
-   
+
     .unit {
         font-size: 15px;
     }
@@ -352,10 +370,11 @@ footer {
 }
 
 @media screen and (max-width: 790px) {
-   
+
     #imageone {
         margin-top: 30px;
     }
+
     #form-back {
         padding: 150px 0 0 300px;
         font-size: 15px;
@@ -364,17 +383,18 @@ footer {
 }
 
 @media screen and (max-width: 740px) {
-    
+
     #imageone {
         width: 300px;
     }
 }
 
 @media screen and (max-width: 700px) {
-    
+
     .unit {
         width: 233px;
     }
+
     .box {
         height: 180px;
         width: 160px;
@@ -382,25 +402,25 @@ footer {
 }
 
 @media screen and (max-width: 670px) {
-   
+
     .footer {
         padding: 0 0 0 10px;
     }
 }
 
-@media  screen and (max-width: 640px){
+@media screen and (max-width: 640px) {
     .float-right {
-        margin:0;
+        margin: 0;
     }
 
     nav {
         font-size: 7px;
-}
-    
+    }
+
 }
 
 @media screen and (max-width: 610px) {
-   
+
     #media {
         margin: 0 0 0 125px;
     }
@@ -408,7 +428,7 @@ footer {
 
 
 @media screen and (max-width: 560px) {
-    
+
     #media {
         margin: 0 0 0 100px;
     }
@@ -418,6 +438,7 @@ footer {
     h1 {
         font-size: 15px;
     }
+
     #imageone {
         width: 280px;
         height: 340px;
@@ -425,114 +446,121 @@ footer {
 }
 
 @media screen and (max-width: 480px) {
-     
+
     .footer {
         line-height: normal;
         font-size: 10px;
         padding-top: 10px;
     }
-   
+
     .box {
         height: 150px;
         width: 130px;
     }
 }
+
 @media screen and (max-width: 420px) {
     .box {
         height: 140px;
         width: 120px;
     }
 }
+
 @media screen and (max-width: 440px) {
     h1 {
         font-size: 10px;
     }
-    
+
 }
 
 @media screen and (max-width: 424px) {
-    
+
     .footer {
         margin-top: 4px;
     }
 }
 
 /* average large mobile width */
+
 @media screen and (max-width: 414px) {
-    
+
     .introduction-unit {
         padding: 0 5px 3px 5px;
         margin: 0 10px 0 10px;
     }
 }
 
-@media screen and (max-width: 400px) { 
-.introduction-unit {
-    padding: 0 2px 3px 2px;
-    margin: 0 5px 0 5px;
-}
+@media screen and (max-width: 400px) {
+    .introduction-unit {
+        padding: 0 2px 3px 2px;
+        margin: 0 5px 0 5px;
+    }
 }
 
 @media screen and (max-width: 390px) {
-   .form-box {
-    width: 150px;
-    height: 450px;
-   }
-   #media-line-height {
-    line-height: normal;
-    font-size: 20px;
-   }
-   .form-box {
-    height: 550px;
-   }
+    .form-box {
+        width: 150px;
+        height: 450px;
+    }
 
-   .contain {
-    display: flex;
-    flex-direction: column;
-}
+    #media-line-height {
+        line-height: normal;
+        font-size: 20px;
+    }
+
+    .form-box {
+        height: 550px;
+    }
+
+    .contain {
+        display: flex;
+        flex-direction: column;
+    }
+
     .box {
-    height: 200px;
-    width: 200px;
-    margin-left: 70px;
-}
-.introduction {
-    display: flex;
-    flex-direction: column;
-    padding: 0 0 3px 0;
-    margin: 0 5px 0 2px;
-}
+        height: 200px;
+        width: 200px;
+        margin-left: 70px;
+    }
 
-    .introduction-unit {
-    background-color: rgba(240, 209, 178, 0.9);
-    margin: 10px 0 10px 0;
-    width: 100%;
-    border-radius: 40px;
-}
-}
-
-/* average mobile width */
-
-@media screen and (max-width: 375px) {          
-   #imageone {
-    width: 200px;
-    height: 280px;
-   }
-
-   .unit {
-    height: 300px;
-   }
-}
-
-@media screen and (max-width: 345px) {
-       
     .introduction {
         display: flex;
         flex-direction: column;
         padding: 0 0 3px 0;
         margin: 0 5px 0 2px;
     }
-    
-        .introduction-unit {
+
+    .introduction-unit {
+        background-color: rgba(240, 209, 178, 0.9);
+        margin: 10px 0 10px 0;
+        width: 100%;
+        border-radius: 40px;
+    }
+}
+
+/* average mobile width media enteries */
+
+@media screen and (max-width: 375px) {
+    #imageone {
+        width: 200px;
+        height: 280px;
+    }
+
+    .unit {
+        height: 300px;
+    }
+}
+
+@media screen and (max-width: 345px) {
+
+    .introduction {
+        display: flex;
+        flex-direction: column;
+        padding: 0 0 3px 0;
+        margin: 0 5px 0 2px;
+    }
+
+    .introduction-unit {
         background-color: rgba(240, 209, 178, 0.9);
         margin: 10px 0 10px 0;
         width: 100%;
@@ -543,7 +571,7 @@ footer {
         width: 180px;
         height: 240px;
     }
-    
+
     .unit {
         height: 280px;
     }
@@ -553,22 +581,24 @@ footer {
         width: 200px;
         margin-left: 50px;
     }
+
     th {
         text-transform: lowercase;
     }
 }
+
 @media screen and (max-width: 320px) {
 
     .form-box {
-    width: 150px;
-    height: 450px;
-    padding: 30px 40px 150px 30px;
-    margin-bottom: 100px;
-   }
+        width: 150px;
+        height: 450px;
+        padding: 30px 40px 150px 30px;
+        margin-bottom: 100px;
+    }
 
-#form-back {
-    padding: 150px 0 0 2px;
-    font-size: 15px;
-    font-weight: 100;
-}
+    #form-back {
+        padding: 150px 0 0 2px;
+        font-size: 15px;
+        font-weight: 100;
+    }
 }
