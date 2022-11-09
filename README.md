@@ -3,11 +3,10 @@
 ## [New Saga Comics](https://ajorgensen89.github.io/saga-comic/)
 ![Landing Page](assets/readme-images/LandingPage.png)
 
-
-	Head purpose of page includes 'New Saga to 2022' and image of main characters. 
+Head purpose of page includes 'New Saga to 2022' and image of main characters. 
 	The focus of the website is about the New Issues released this year after a hiatus, since 2018.
 
-	Includes a head title and the navigation down the page through anchor links.
+The webpage is in a 'scrolling' format and includes a head title and the navigation down the entire page through anchor links.
 
 ***
 ### Table of Contents
@@ -56,7 +55,8 @@ Certain elements such as the, Character gallery, was removed and added to future
 ![Mobile Device View](assets/readme-images/WireframeS2.png)
 
 ## Removed and change heading titles.
-Changed head title through the building of the website to make the focus on the purpose of the website highlight the new releases after a hiatus from 2018 untill 2022.
+I changed the head title through the building of the site, to make it focus on the purpose of this website 
+which, highlights the new releases after the Comic Books suffered a hiatus in publishing from 2018 untill 2022.
 
 [Back to Top](#new-saga-comic-launch-in-2022)
 
