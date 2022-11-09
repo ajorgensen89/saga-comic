@@ -2,7 +2,7 @@
 
 ## Landing page.
 ![Landing Page](assets/images/LandingPage.png)
-[New Saga Comics!](url'https://ajorgensen89.github.io/saga-comic/')
+[New Saga Comics](url'https://ajorgensen89.github.io/saga-comic/')
 
 	Head purpose of page includes 'New Saga to 2022' and image of main characters. 
 	The focus of the website is about the New Issues released this year after a hiatus, since 2018.
