@@ -62,6 +62,7 @@ Table introduced for this section to show information about their previous relea
 information was a good display method.
 
 ![Volume 1-9](assets/images/Table.png)
+
 [Back to Top](#new-saga-comic-launch-in-2022)
 ### About the Author.
 
@@ -178,10 +179,14 @@ Used to design the layour of the website. Final website has been made different 
 Certain elements such as the, Character gallery, was removed and added to future adapations to the webpage's features.
 
 **Computer View**
+
 ![Laptop View of wireframe](assets/images/WireframeL.png)
 
 **Mobile Device view.**
-![Mobile Device View](assets/images/WireframeS.png) ![Mobile Device View](assets/images/WireframeS2.png)
+
+![Mobile Device View](assets/images/WireframeS.png)
+
+![Mobile Device View](assets/images/WireframeS2.png)
 ### Design
 #### Colour Scheme
 The beige to orange colour field continued down into the rest of the page, was used as a subtle hint to the colours in the characters clothing on the landing page image, aswell as the main 'Saga' title in the image.

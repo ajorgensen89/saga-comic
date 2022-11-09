@@ -375,6 +375,10 @@ footer {
     .unit {
         width: 233px;
     }
+    .box {
+        height: 180px;
+        width: 160px;
+    }
 }
 
 @media screen and (max-width: 670px) {
