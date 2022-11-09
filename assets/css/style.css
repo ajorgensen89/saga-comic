@@ -65,7 +65,12 @@ h4 {
 
 }
 
-/* flex display used  h1 and front image in the center */
+.activate {
+    text-decoration: 1px solid rgb(29, 7, 51);
+
+}
+
+/* flex display used  subtitles and front image in the center */
 
 .storage {
     display: flex;
@@ -286,7 +291,20 @@ footer {
 
 /* Media Enteries */
 
+@media screen and (max-width: 1100px) {
+    #form-back {
+        padding: 150px 0 0 420px;
+    }
+}
+
 @media screen and (max-width: 990px) {
+
+    #form-back {
+        padding: 150px 0 0 380px;
+        font-size: 15px;
+        font-weight: 100;
+    }
+
     .float-right {
 
         margin: 20px 0px 0 0;
@@ -339,6 +357,10 @@ footer {
 
 @media screen and (max-width: 880px) {
 
+    #form-back {
+        padding: 150px 0 0 340px;
+    }
+
     #imageone {
         width: 320px;
         height: 360px;
@@ -352,6 +374,10 @@ footer {
 }
 
 @media screen and (max-width: 840px) {
+
+    #form-back {
+        padding: 150px 0 0 300px;
+    }
 
     nav {
         font-size: 10px;
@@ -376,9 +402,7 @@ footer {
     }
 
     #form-back {
-        padding: 150px 0 0 300px;
-        font-size: 15px;
-        font-weight: 100;
+        padding: 150px 0 0 250px;
     }
 }
 
@@ -390,6 +414,10 @@ footer {
 }
 
 @media screen and (max-width: 700px) {
+
+    #form-back {
+        padding: 150px 0 0 200px;
+    }
 
     .unit {
         width: 233px;
@@ -421,6 +449,10 @@ footer {
 
 @media screen and (max-width: 610px) {
 
+    #form-back {
+        padding: 150px 0 0 175px;
+    }
+
     #media {
         margin: 0 0 0 125px;
     }
@@ -435,6 +467,11 @@ footer {
 }
 
 @media screen and (max-width: 530px) {
+
+    #form-back {
+        padding: 150px 0 0 150px;
+    }
+
     h1 {
         font-size: 15px;
     }
@@ -446,6 +483,10 @@ footer {
 }
 
 @media screen and (max-width: 480px) {
+
+    #form-back {
+        padding: 150px 0 0 100px;
+    }
 
     .footer {
         line-height: normal;
@@ -459,13 +500,6 @@ footer {
     }
 }
 
-@media screen and (max-width: 420px) {
-    .box {
-        height: 140px;
-        width: 120px;
-    }
-}
-
 @media screen and (max-width: 440px) {
     h1 {
         font-size: 10px;
@@ -473,7 +507,18 @@ footer {
 
 }
 
+@media screen and (max-width: 420px) {
+    .box {
+        height: 140px;
+        width: 120px;
+    }
+}
+
 @media screen and (max-width: 424px) {
+
+    #form-back {
+        padding: 150px 0 0 60px;
+    }
 
     .footer {
         margin-top: 4px;
@@ -498,6 +543,13 @@ footer {
 }
 
 @media screen and (max-width: 390px) {
+
+    #form-back {
+        padding: 150px 0 0 50px;
+        font-size: 15px;
+        font-weight: 100;
+    }
+
     .form-box {
         width: 150px;
         height: 450px;
@@ -541,6 +593,13 @@ footer {
 /* average mobile width media enteries */
 
 @media screen and (max-width: 375px) {
+
+    #form-back {
+        padding: 150px 0 0 40px;
+        font-size: 15px;
+        font-weight: 100;
+    }
+
     #imageone {
         width: 200px;
         height: 280px;
@@ -552,6 +611,12 @@ footer {
 }
 
 @media screen and (max-width: 345px) {
+
+    #form-back {
+        padding: 150px 0 0 5px;
+        font-size: 15px;
+        font-weight: 100;
+    }
 
     .introduction {
         display: flex;

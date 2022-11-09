@@ -1,7 +1,7 @@
 # New Saga Comic Launch in 2022!
 
 ## [New Saga Comics](url'https://ajorgensen89.github.io/saga-comic/')
-![Landing Page](assets/images/LandingPage.png)
+![Landing Page](assets/readme-images/LandingPage.png)
 
 
 	Head purpose of page includes 'New Saga to 2022' and image of main characters. 
@@ -28,19 +28,18 @@
 * [Clone Website](#clone-website)
 * [Deployment](#deployment)
 * [Technologies](#technologies)
-
+***
 ## User experience	
 The general experience should allow the audience to briefly understand how Comics are put togther and read. Then, I have impletmented a large portion of the website to the New Comic Issues this year so they easily avaliable to notice. 
 Information can be found about the hiatus both the Writer and Illustrator for the Comic took and a link to find more information is avaiable from the website. Including, the Pulisher of this particular Comic book Series.
 An easy subscribtion form can be found to sign up for future details and the footer contains links to look further in their Social aspects and purchasing the Comics themselves.
-### Properties continued throughout website.
+
+### **Properties continued throughout website.**
 Border-radius continued throughout the webpage for a 'round world' effect.
 
 Pixels height of 10px's increments over the webpage.
 
 Padding increased in 2px increments used where necessary (e.g. 2px, 4px, 6px)
-
-[Back to Top](#new-saga-comic-launch-in-2022)
 
 [Back to Top](#new-saga-comic-launch-in-2022)
 ### Wireframe
@@ -52,9 +51,8 @@ Certain elements such as the, Character gallery, was removed and added to future
 ![Laptop View of wireframe](assets/readme-images/WireframeL.png)
 
 **Mobile Device view.**
-
+ 
 ![Mobile Device View](assets/readme-images/WireframeS.png)
-
 ![Mobile Device View](assets/readme-images/WireframeS2.png)
 
 ## Removed and change heading titles.
@@ -67,7 +65,7 @@ Changed head title through the building of the website to make the focus on the 
 ### Introduction Page.
 
 Information surrounds general introduction to the storyline of the Saga Comics. Used Flex box to position them how you would read in a comic. Starting from the top and then reading left to right. 
-Navigation bar is in a fixed position for use throughout the page as your scroll down.
+Navigation bar is in a fixed position for use throughout the page as you scroll down.
 
 ![Introduction Page](assets/readme-images/Intro.png)
 [Back to Top](#new-saga-comic-launch-in-2022)
@@ -178,7 +176,7 @@ Hit _enter_.
 [Back to Top](#new-saga-comic-launch-in-2022)
 
 ***
-### Technologies.
+## Technologies.
 Technologies used thoughout this wesbite.
 1. [Github](https://github.com/)
 
@@ -212,7 +210,7 @@ My Acknowledgements would like to go out to:
 - [Slack](https://slack.com/intl/en-gb/) Community for help throughout.
 - Mentor Precious Ijege for encourgement to produce better and advise along the way.
 - [Image Comics](https://imagecomics.com/comics/series) for comic books release dates and Issue information.
-- Oisin on Tutor Support for Code Institute Course.
+- Tutor Support one the Code Institute Course.
 
 [Back to Top](#new-saga-comic-launch-in-2022)
 
