@@ -1,6 +1,6 @@
 # New Saga Comic Launch in 2022!
 
-## [New Saga Comics](url'https://ajorgensen89.github.io/saga-comic/')
+## [New Saga Comics](https://ajorgensen89.github.io/saga-comic/)
 ![Landing Page](assets/readme-images/LandingPage.png)
 
 
@@ -75,6 +75,7 @@ Images of the new comic's front page so they can be easy to indentify it needed 
 Issue number and release dates given.
 
 ![New Comic Issues](assets/readme-images/NewIssues.png)
+
 [Back to Top](#new-saga-comic-launch-in-2022)
 ### Volume 1-9.
 
@@ -90,6 +91,7 @@ Fieldsets used to set the information in a separated design from writer and Arti
 Clickable Icons used for Wikipedia links for further information.
 
 ![About the Author](assets/readme-images/About.png)
+
 [Back to Top](#new-saga-comic-launch-in-2022)
 ### Subscribtion Form.
 
@@ -97,6 +99,7 @@ Background image used with Form information over the top. Image used for the bac
 Purpose of the form is for people to subscribe to get upto date release inforamtion.
 
 ![Subscribtion Form](assets/readme-images/Form.png)
+
 [Back to Top](#new-saga-comic-launch-in-2022)
 ### Footer.
 
@@ -125,14 +128,15 @@ For Testing Details. Click [here](testing.md).
 ***
 ## Design
 ### Colour Scheme
-The beige to orange colour field continued down into the rest of the page, was used as a subtle hint to the colours in the characters clothing on the landing page image, aswell as the main 'Saga' title in the image.
+The beige to orange colour field that continues down through the page is used as a subtle hint to the colours in the characters clothing in the head title page image, aswell as the main 'Saga' title in the image.
 
 Colours over page:
 * rgba(240, 209, 178, 0.9) (Beige)
 * rgb(238, 125, 13) (Orange)
 * rgb(29, 7, 51) (Dark Purple, almost black)
 
-The last image which is the background to the Form, is an image used from the Final Chapter of the Comic they released in 2018 before the hiatus. I felt this was a subtle ending to the webpage.
+The last image which is the background to the Form, is an image used from the Final Chapter of the Comic they released in 2018 before the hiatus. I felt this was a subtle ending to the webpage.,
+
 [Back to Top](#new-saga-comic-launch-in-2022)
 ### Typography
 Font used from [Google Fonts](https://fonts.google.com/) website.
@@ -145,15 +149,23 @@ The two I choose has subtle differences, giving the paragraphs a font of 'Noto S
 The process involved signing into GitHub pages and opening the repository. 
 - Click on the 'settings' button.
 - Scroll down to 'Pages' on the lefthand menu.
+
 ![Step 1](assets/readme-images/GithubPages.png)
 - Changed Deployent branch to main with /root file and then save.
+
 ![Step 2](assets/readme-images/GithubPages2.png)
 - Wait for the process to become visable on the main repository page for Saga-Comic. Sometimes the webpage my look like the photo below and therefore you have a clickable deployable link avaliable.
+
 ![Step 3](assets/readme-images/GithubPages3.png)
 
 - Click on 'Active' github-pages link underneathe Environments on the Right side of the page. You will notice in the top left corner your Branch is set to Main.
-- Click 'View Deployment'
+
+
 ![Step 4](assets/readme-images/GithubPages4.png)
+
+- Click 'View Deployment'
+
+![Step 5](assets/readme-images/deployment.png)
 
 Active link: https://ajorgensen89.github.io/saga-comic/
 
@@ -178,14 +190,14 @@ Hit _enter_.
 ***
 ## Technologies.
 Technologies used thoughout this wesbite.
-1. [Github](https://github.com/)
+1. [Github](https://github.com/) used to display documents and deploy wesbite.
 
-2. [Gitpod](https://gitpod.com/)
+2. [Gitpod](https://www.gitpod.io/) to build and code the website.
 
-3. [Code Institute](https://codeinstitute.net/) Course Plan
-4. W3C [HTML code Validator](https://validator.w3.org/) and [CSS Code Validator](https://jigsaw.w3.org/)
-5. [w3schools](https://www.w3schools.com/) 'How to' information. 
-6. [README.md](https://www.ionos.com/digitalguide/websites/web-development/readme-file/) writing assistance.
+3. [Code Institute](https://codeinstitute.net/) Course Plan studying to be a Full Stack Software Developer.
+4. W3C [HTML code Validator](https://validator.w3.org/) and [CSS Code Validator](https://jigsaw.w3.org/css-validator/) to test the code input.
+5. [w3schools](https://www.w3schools.com/) to get 'How to' information. 
+6. Ionos [README.md](https://www.ionos.com/digitalguide/websites/web-development/readme-file/) site for writing assistance.
 7. [Balsamiq](https://balsamiq.com/) used to create wireframes. 
 
 [Back to Top](#new-saga-comic-launch-in-2022)

@@ -29,7 +29,7 @@ Photo attached of proof for the wesbite passing validation.
 [Back to Top](#testing)
 
 ## CSS
-I fixed any Issues with my CSS using the Validator Service - [CSS Code Validator](https://jigsaw.w3.org/)
+I fixed any Issues with my CSS using the Validator Service - [CSS Code Validator](https://jigsaw.w3.org/css-validator/)
 
 I faced one bug in my CSS when setting the borders, margins and padding to the _body_ of the website. 
 I removed _auto_ and replaced the value with a zero(0)
@@ -44,6 +44,45 @@ Problem in the CSS.
 
 [Back to Top](#testing)
 	
+### Browser Testing.
+The webpage loads and the appearance and functionality tested. It is avaliable to view while on the following browsers including, [Microsoft Edge](https://www.microsoft.com/en-us/edge?form=MA13FJ), [Google Chrome](https://www.google.co.uk/chrome/), [Opera](https://www.opera.com/) and [ Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/new/).
+
+Loading problems were found with [Safari](https://www.apple.com/uk/safari/) due to my iOS not supporting Safari.
+
+[Back to Top](#testing)
+
+***
+## Lighthouse Overview.
+The Lighthouse overview assessed the performance, accessibility and best practice of the website in a Desktop and Mobile Device environment. This can be accessed via _Inspect_ tool avaliable on different browers.
+
+![Lighthouse](assets/readme-images/mobileLH.png) 
+
+[Back to Top](#testing)
+## Chrome Devtools 
+Was used for a brief look of the website. Included in this view is the General Overview and Colour chart. (Orange colour for the _hover_ attribute not included in chart)
+Image shown below.
+
+![Chrome Devtools](assets/readme-images/overview.colour.png) 
+
+
+_Chrome Developer Tools_ was used to view differnt parts of the code including the HTML and CSS of the webpage. Each section could be highlighted and viewed on the page to check the positioning and look of the site. Items could be adpated within the Developer Tools to view temporary changes to the website to understand the switch needed to apply in GitPod.
+Image shown below.
+![Chrome Devtools](assets/readme-images/chromedevtools.png)
+
+Once again, _Chrome Developer Tools_ can be used to view your website on different device widths using either technique highlighted in the image below. You can set it to a particular device or set the pixel width and height separately.
+
+![Chrome Devtools deive response](assets/readme-images/chromedevice.png)
+
+[Back to Top](#testing)
+
+## Am I responsive.
+I used this website to test the view on various devices.
+[Am I responsive?](https://ui.dev/amiresponsive) 
+
+
+![Am I Responsive](assets/readme-images/Devices.png)
+***
+
 ### General
 Some general Issues and bugs I faced when creating thie website
 * README.md kept deleting my input and not saving. I had used 'git add README.md'.
@@ -68,45 +107,6 @@ Some general Issues and bugs I faced when creating thie website
 * Changing the _'placeholder'_ text colour for the button for the form. Below website assistance used: 
 https://www.w3schools.com/howto/howto_css_placeholder.asp
 * Managing the correct table positon to adjust over devices was difficult as I could not write the correct code. However, with thanks to [Method 1](https://granneman.com/webdev/coding/css/centertables) on this link, I was able to set the _margin-left_ and _margin-right_ to use the value _auto_ to get this positioning to adjust.
-
-[Back to Top](#testing)
-
-### Browser Testing.
-The webpage loads and the appearance and functionality tested. It is avaliable to view while on the following browsers including, [Microsoft Edge](https://www.microsoft.com/en-us/edge?form=MA13FJ), [Google Chrome](https://www.google.co.uk/chrome/), [Opera](https://www.opera.com/) and [ Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/new/).
-
-Loading problems were found with [Safari](https://www.apple.com/uk/safari/) due to my iOS not supporting Safari.
-
-[Back to Top](#testing)
-
-***
-## Lighthouse Overview. Pictured below.
-The Lighthouse overview assessed the performance, accessibility and best practice of the website in a Desktop and Mobile Device environment. the can be accessed via _Inspect_ tool avaliable on different browers.
-
-![Lighthouse](assets/readme-images/mobileLH.png) 
-
-[Back to Top](#testing)
-## Chrome Devtools 
-Was used for a brief look of the website. Included in this view is the General Overview and Colour chart. (Orange colour for the _hover_ attribute not included in chart)
-Image shown below.
-![Chrome Devtools](assets/readme-images/overview.colour.png) 
-
-
-Chrome Developer Tools was used to view differnt parts of the code including the HTML and CSS of the webpage. Each section could be highlighted and viewed on the page to check the positioning and look of the site. Items could be adpated within the Developer Tools to view temporary changes to the website to understand the switch needed to apply in GitPod.
-Image shown below.
-![Chrome Devtools](assets/readme-images/chromedevtools.png)
-
-Once again, Chrome Developer Tools can be used to view your website on different device widths using either technique highlighted in the image below. You can set to a particular device or set the pixel width and height separately.
-
-![Chrome Devtools deive response](assets/readme-images/chromedevice.png)
-
-[Back to Top](#testing)
-
-## Am I responsive.
-I used this website to test the view on various devices.
-[Am I responsive?](https://ui.dev/amiresponsive) 
-
-
-![Am I Responsive](assets/readme-images/Devices.png)
 ***
 [Back to Top](#testing) 
 ***
