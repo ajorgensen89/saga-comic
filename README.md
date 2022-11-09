@@ -5,8 +5,7 @@
 [New Saga Comics!](url'https://ajorgensen89.github.io/saga-comic/')
 
 	Head purpose of page includes 'New Saga to 2022' and image of main characters. 
-	Th
-	e focus of the website is about the New Issues released this year after a hiatus, since 2018.
+	The focus of the website is about the New Issues released this year after a hiatus, since 2018.
 
 	Includes navigation down the page through anchor links.
 
@@ -123,7 +122,7 @@ Some general Issues and bugs I faced when creating thie website
 * README.md kept deleting my input and not saving. I had used 'git add README.md'.
   I ensured the method of 'git add', 'git commit' and 'git push' was always used to snsure the error stopped.
 * Errors - Files and folders for Images and CSS needed their paths correcting as they did not link to the index.html page. I added links to style.css file and to images used in the website.
-* Change font text.
+* Changed font text to look better on the page.
 * Issues with setting background image using code from Love Running. Atempted positioning using _'position: relative;'_ and _'position: absolute;'_ in child and parent elements.
 * Tried using the method in CSS shown below but had forgotten the _'overflow: hidden;'_ style declaration.
 	- #form-set {
@@ -141,6 +140,7 @@ Some general Issues and bugs I faced when creating thie website
 	- border-radius.	
 * Changing the _'placeholder'_ text colour for the button for the form. Below website assistance used: 
 https://www.w3schools.com/howto/howto_css_placeholder.asp
+* Managing the correct table positon to adjust over devices was difficult as I could not write the correct code. However, with thanks to [Method 1](url'https://granneman.com/webdev/coding/css/centertables') on this link, I was able to set the _margins-left_ and _margin-right_ to _auto_ to get this positioning to adjust.
 
 ### Browser Testing.
 All loading and avaliable to view while tested on [Microsoft Edge](url'https://www.microsoft.com/en-us/edge?form=MA13FJ'), [Google Chrome](url'https://www.google.co.uk/chrome/'), [Opera](url'https://www.opera.com/') and [Firefox](url'https://www.mozilla.org/en-GB/firefox/new/').
@@ -149,7 +149,7 @@ Loading problems found with [Safari](url'https://www.apple.com/uk/safari/').
 [Back to Top](#new-saga-comic-launch-in-2022)
 
 ### Unfixed Problems.
-Lots of media enteries made for position of the table in the Volume 1-9 section as I struggled to make it adjust 'naturally' to fit the page. To center the page when viewed I used different pixel widths {different screen widths) in these media enteries.
+
 Central positioning for text within _Fieldset_ looks slightly off when viewed on a webpage even when 'text-align: center;' is set to this section.
 
 [Back to Top](#new-saga-comic-launch-in-2022)
@@ -169,6 +169,7 @@ Padding increased in 2px increments used where necessary (e.g. 2px, 4px, 6px)
 
 ### 'Back' Form
 Title and footer included on the form to return to the main website.
+
 !['Back' form](assets/images/Backform.png)
 
 [Back to Top](#new-saga-comic-launch-in-2022)

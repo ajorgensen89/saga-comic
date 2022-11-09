@@ -81,8 +81,6 @@ h4 {
 #imageone {
     width: 440px;
     height: 410px;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 /* Introduction information display */
@@ -135,6 +133,7 @@ td, th, tr {
 
 #table-section {
     background-color: rgba(240, 209, 178, 0.9);
+    height: 420px;
     border-radius: 40px;
 }
 
@@ -277,15 +276,6 @@ footer {
 
 /* Media Enteries */
 @media screen and (max-width: 990px) {
-    
-
-    #imageone {
-        width: 380px;
-        height: 400px;
-    }
-}
-
-@media  screen and (max-width: 970px){
     .float-right {
         
         margin:20px 0px 0 0;
@@ -294,7 +284,17 @@ footer {
     h1 {
         font-size: 30px;
     }
-    
+    nav {
+        font-size: 15px;
+}
+    #imageone {
+        width: 380px;
+        height: 400px;
+    }
+}
+
+@media  screen and (max-width: 970px){
+        
     #imageone {
         width: 360px;
         height: 380px;
@@ -306,13 +306,13 @@ footer {
     h1 {
         font-size: 25px;
     }
-    nav {
-        font-size: 15px;
-}
-#imageone {
+   nav {
+    font-size: 10px;
+   }
+    #imageone {
     width: 340px;
     height: 380px;
-}
+   }
 }
 @media screen and (max-width: 900px) {
 
@@ -331,16 +331,10 @@ footer {
     h1 {
         font-size: 20px;
     }
-    nav {
-        font-size: 15px;
-    }
 }
 
 @media screen and (max-width: 840px) {
     
-    h1 {
-        font-size: 20px;
-    }
     nav {
         font-size: 10px;
     }
@@ -395,17 +389,14 @@ footer {
         margin:0;
     }
 
-    h1 {
-        font-size: 15px;
-    }
     nav {
-        font-size: 10px;
+        font-size: 7px;
 }
     
 }
 
 @media screen and (max-width: 610px) {
-    
+   
     #media {
         margin: 0 0 0 125px;
     }
@@ -420,7 +411,9 @@ footer {
 }
 
 @media screen and (max-width: 530px) {
-    
+    h1 {
+        font-size: 15px;
+    }
     #imageone {
         width: 280px;
         height: 340px;
@@ -514,11 +507,21 @@ footer {
 }
 
 @media screen and (max-width: 345px) {
-       .introduction-unit {
+       
+    .introduction {
+        display: flex;
+        flex-direction: column;
         padding: 0 0 3px 0;
         margin: 0 5px 0 2px;
     }
-   
+    
+        .introduction-unit {
+        background-color: rgba(240, 209, 178, 0.9);
+        margin: 10px 0 10px 0;
+        width: 100%;
+        border-radius: 40px;
+    }
+
     #imageone {
         width: 180px;
         height: 240px;
@@ -545,19 +548,6 @@ footer {
     padding: 30px 40px 150px 30px;
     margin-bottom: 100px;
    }
-
-   .introduction {
-    display: flex;
-    flex-direction: column;
-}
-
-    .introduction-unit {
-    background-color: rgba(240, 209, 178, 0.9);
-    margin: 10px 0 10px 0;
-    height: fit-content;
-    width: 100%;
-    border-radius: 40px;
-}
 
 #form-back {
     padding: 150px 0 0 2px;
