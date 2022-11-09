@@ -46,6 +46,7 @@ Changed head title through the building of the website to make the focus on the 
 ### Introduction Page.
 
 Information surrounds general introduction to the storyline of the Saga Comics. Used Flex box to position them how you would read in a comic. Starting from the top and then reading left to right. 
+Navigation bar is in a fixed position for use throughout the page as your scroll down.
 
 ![Introduction Page](assets/images/Intro.png)
 [Back to Top](#new-saga-comic-launch-in-2022)
@@ -89,7 +90,7 @@ All have clickable links via clickable icons.
 [Back to Top](#new-saga-comic-launch-in-2022)
 ***
 ### Future Features.
-For features to add to this website I would have liked to added a Character gallery to show some more of the illustrations of the Saga Comic Book Series.
+For features to add to this website I would have liked to have added a character gallery to show some more of the illustrations of the Saga Comic Book Series.
 ***
 ## Testing.
 ### HTML - Validated on the Official W3C Validator.
@@ -251,7 +252,7 @@ Technologies used thoughout this wesbite.
 6. [README.md](url'https://www.ionos.com/digitalguide/websites/web-development/readme-file/') writing assistance.
 7. [Balsamiq](url'https://balsamiq.com/') used to create wireframes. 
 8. Lighthouse Overview. Pictured below.
-![Lighthouse](assets/images/Lighthouse.png) 
+![Lighthouse](assets/images/mobileLH.png) 
 9. Chrome Devtools is used for a brief look of the website. Included in this view is the General Overview and Colour chart. (Orange colour for the _hover_ attribute not included in chart)
 ![Chrome Devtools](assets/images/overview.colour.png) 
 10. [Am I responsive?](url'https://ui.dev/amiresponsive') webpage used to test the view on various devices.
